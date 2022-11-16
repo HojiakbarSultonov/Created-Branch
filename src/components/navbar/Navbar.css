@@ -1,0 +1,13 @@
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: gold;
+    height: 80px;
+}
+
+.nav__link{
+    text-decoration: none;
+    font-size: 20px;
+    font-family: Verdana, Geneva, sans-serif;
+}

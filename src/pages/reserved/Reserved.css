@@ -1,0 +1,9 @@
+.reservedHotel{
+    margin-top: 20px;
+}
+
+.reservedInfo{
+    display: grid;
+    grid-template-columns: repeat(4,auto);
+    grid-gap: 10px;
+}

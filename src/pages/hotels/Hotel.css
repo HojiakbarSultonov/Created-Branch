@@ -1,0 +1,37 @@
+.chooseHotel{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+
+}
+
+.formInput{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    padding: 10px;
+    background-color: grey;
+    gap: 10px;
+    width: 300px;
+}
+
+.formInput input, .formInput button{
+    width: 200px;
+    height: 40px;
+    font-size: 20px;
+    background-color: gold;
+}
+
+.formInput button{
+    border-radius: 10px;
+    background-color: red;
+    color: white;
+}
+
+.hotels{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    background-color: grey;
+}
