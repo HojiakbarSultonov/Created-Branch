@@ -23,7 +23,7 @@ function Home() {
   return (
     <div>
       <h1>Home</h1>
-
+    <h1 className="newTitle">new Created Branch for Github</h1>
       {/* <form onSubmit={handleSubmit}>
         <input
           name="name"
